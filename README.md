@@ -18,8 +18,8 @@
 **简单使用方法**：
 1. `star` 本项目
 2. 安装[Git](https://git-scm.com/downloads), 安装[nodeJS](https://nodejs.org/en/)
-3. 你可以直接`fork`一份源码到你的仓库，`clone`到本地
-4. 在本地博客仓库运行`npm i`命令安装依赖包
+3. 你可以直接`fork`一份源码到你的仓库，`clone`到本地 运行git clone https:...
+4. 遇到什么错误直接百度，在本地博客仓库运行`npm i`命令安装依赖包 npm insatll
 5. 修改配置信息，改成自己的信息
 6. 运行命令`hexo  clean`（清除生成文件），`hexo g`（生成网页）， `hexo  s`（本地预览），`hexo d`（部署）
 
